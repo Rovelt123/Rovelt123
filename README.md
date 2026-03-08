@@ -28,14 +28,6 @@ I have worked with:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIT_GITHUB_BRUGERNAVN\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIT_GITHUB_BRUGERNAVN\&layout=compact\&theme=tokyonight)
-
----
-
 ## Projects
 
 On my GitHub you can find projects related to:
