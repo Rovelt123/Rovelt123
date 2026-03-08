@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Developer
+# 👋 Hi, my name is Andreas Alexander Rovelt
 
 I enjoy coding and building projects using different technologies.
 I mainly work with **backend, scripting, and game development**.
