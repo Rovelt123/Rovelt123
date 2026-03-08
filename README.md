@@ -38,7 +38,9 @@ On my GitHub you can find projects related to:
 * ⚙️ Scripts and tools
 
 You can preview my previous projects here:
+
 [Cupcake project](https://projekt1.roneu.dk/)
+
 [FOG project](https://projekt2.roneu.dk/)
 
 ---
