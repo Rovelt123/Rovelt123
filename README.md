@@ -57,5 +57,9 @@ You can preview my previous projects here:
 ## 📫 Contact
 
 If you want to collaborate or have questions, feel free to reach out.
+
 Email: Andreas.sggamin@gmail.com
+
+
+
 **Thanks for visiting my profile!**
