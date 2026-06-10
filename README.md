@@ -48,7 +48,7 @@ You can preview my previous projects here:
 
 [FOG project](https://projekt2.roneu.dk/)
 
-[Teamplanner project]((https://projekt3.roneu.dk/))
+[Teamplanner project]((https://projekt3.roneu.dk/)
 
 [Teamplanner rest API](https://teamplanner.roneu.dk/routes)
 
