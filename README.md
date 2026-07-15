@@ -58,7 +58,7 @@ You can preview my previous projects here:
 
 If you want to collaborate or have questions, feel free to reach out.
 
-Email: Andreas.sggamin@gmail.com
+Email: kontakt@roneu.dk
 
 
 
