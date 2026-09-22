@@ -56,6 +56,8 @@ You can preview my previous projects here:
 
 [Say I Do](https://sys1.roneu.dk/)
 
+[AI reflections](https://aida.roneu.dk/)
+
 ---
 
 ## 📫 Contact
